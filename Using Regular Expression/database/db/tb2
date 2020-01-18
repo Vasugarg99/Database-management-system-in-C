@@ -1,0 +1,5 @@
+id,int,name,string,marks,double,grade,string
+1,Vasu,98,A
+2,Diksha,78,C
+3,Kshitiz,88,B
+4,Snehil,91,A
